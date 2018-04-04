@@ -2,5 +2,4 @@
 // Do not modify it as it might get overridden
 
 module.exports = function(app) {
-	require('./catalog')(app);
 };
