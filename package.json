@@ -25,7 +25,8 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "strong-supervisor": "^6.2.0",
-    "log4js": "^1.1.1"
+    "log4js": "^1.1.1",
+    "request-promise": "4.2.2"
   },
   "devDependencies": {
     "chai": "^4.0.0",
