@@ -2,7 +2,7 @@
   "port": 3000,
   "catalog": {
   	"protocol": "http",
-  	"host": "bluecompute-catalog",
+  	"host": "bluecompute-catalog.default",
   	"port": 8081
   }
 }
